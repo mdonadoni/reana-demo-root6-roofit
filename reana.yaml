@@ -24,3 +24,7 @@ workflow:
 outputs:
   files:
     - results/plot.png
+tests:
+  invalid_key: "xyz"
+xyz:
+  qwerty: 123
